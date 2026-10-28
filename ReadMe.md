@@ -313,12 +313,39 @@
 
 <h2>🔗 Connect With Me</h2>
 
-<ul>
-  <li><b>GitHub:</b> <a href="https://github.com/divyanshtak1001-sys">github.com/divyanshtak1001-sys</a></li>
-  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/divyansh-tak-b0334b362">linkedin.com/in/divyansh-tak-b0334b362</a></li>
-  <li><b>TryHackMe:</b> <a href="https://tryhackme.com/p/divyanshtak1001">divyanshtak1001</a></li>
-  <li><b>Hack The Box:</b> <a href="https://www.hackthebox.com/">Official Platform</a></li>
-</ul>
+<!-- ================= ESTABLISH CONNECTION ================= -->
+
+<h2 align="center">⌁ Establish Connection</h2>
+
+<p align="center">
+  <samp>root@divyansh:~$ connect --professional</samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/divyanshtak1001-sys">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE-123522?style=for-the-badge&logo=github&logoColor=45FF96" alt="GitHub Profile">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/divyansh-tak-b0334b362">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-123522?style=for-the-badge&logo=linkedin&logoColor=45FF96" alt="LinkedIn Profile">
+  </a>
+  <br><br>
+  <a href="https://tryhackme.com/p/divyanshtak1001">
+    <img src="https://img.shields.io/badge/TRYHACKME-LAB_PROFILE-123522?style=for-the-badge&logo=tryhackme&logoColor=45FF96" alt="TryHackMe Profile">
+  </a>
+  &nbsp;
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/HACK_THE_BOX-TRAINING_LABS-123522?style=for-the-badge&logo=hackthebox&logoColor=45FF96" alt="Hack The Box">
+  </a>
+</p>
+
+<p align="center">
+  <code>STATUS: OPEN TO LEARNING & COLLABORATION</code>
+  <br>
+  <sub>Building skills. Exploring vulnerabilities. Testing responsibly.</sub>
+</p>
+
+<hr>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%" alt="divider">
 
