@@ -22,16 +22,6 @@
 
 
 
-<p>
-  This repository contains the source code for my personal cybersecurity portfolio, designed to showcase my technical skills,
-  security-focused projects, hands-on learning, and interests in offensive security and vulnerability research.
-</p>
-
-<p>
-  It combines a dark, terminal-inspired aesthetic with a custom pixel-hacker interface, reflecting my interest in
-  cybersecurity, penetration testing, and practical security research.
-</p>
-
 <h2>👨‍💻 About Me</h2>
 
 <p>
