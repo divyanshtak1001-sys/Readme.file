@@ -24,24 +24,35 @@
 
 <h2>👨‍💻 About Me</h2>
 
+<h2>👨‍💻 About Me</h2>
+
+<p><code>root@security-lab:~$ whoami</code></p>
+
 <p>
-  ## `whoami`
+  I'm <strong>Divyansh</strong> — curious by nature, offensive by mindset.
+</p>
 
-```bash
-divyansh@security-lab:~$ whoami
-```
+<p>
+  Cybersecurity caught my attention at <strong>16</strong>, and I've been chasing the <em>why</em> behind every vulnerability ever since.
+</p>
 
-I'm **Divyansh** — curious by nature, offensive by mindset.
+<p>
+  I question the system, study the flaws, and turn every failure into experience.
+</p>
 
-Cybersecurity caught my attention at **16**, and I've been chasing the *why* behind every vulnerability ever since.
+<p>
+  No shortcuts. No fake reputation. Just skills in progress and targets within scope.
+</p>
 
-I question the system, study the flaws, and turn every failure into experience.
+<blockquote>
+  <strong>Unknown today. Unstoppable in progress.</strong> 💻
+</blockquote>
 
-No shortcuts. No fake reputation. Just skills in progress and targets within scope.
-
-> **Unknown today. Unstoppable in progress.** 💻
-
-`[ LEARN ]` → `[ TEST ]` → `[ BREAK ]` → `[ IMPROVE ]`
+<p>
+  <code>[ LEARN ]</code> &rarr;
+  <code>[ TEST ]</code> &rarr;
+  <code>[ BREAK ]</code> &rarr;
+  <code>[ IMPROVE ]</code>
 </p>
 
 <p>
@@ -220,15 +231,39 @@ No shortcuts. No fake reputation. Just skills in progress and targets within sco
 </div>
 
 <p align="center"><i>Technologies reflect my current work and learning interests; proficiency varies by tool.</i></p>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshtak1001-sys&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshtak1001-sys&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <a href="https://github.com/divyanshtak1001-sys">
+    <img
+      src="https://streak-stats.demolab.com?user=divyanshtak1001-sys&theme=chartreuse-dark&hide_border=true"
+      alt="Divyansh's GitHub Contribution Streak"
+      height="180"
+    />
+  </a>
+
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=divyanshtak1001-sys&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=divyanshtak1001-sys&label=PROFILE+VIEWS&color=45ff96&style=flat-square"
+    alt="GitHub Profile Views"
+  />
 </div>
+
+---
+
+<h2>📚 Currently Exploring</h2>
+
+<ul>
+  <li>🔐 Web Application & API Penetration Testing</li>
+  <li>🎯 Bug Bounty Hunting & Vulnerability Research</li>
+  <li>🌐 Reconnaissance & Attack Surface Analysis</li>
+  <li>🐧 Linux & Network Security</li>
+  <li>🤖 AI Application Security</li>
+  <li>⚙️ Python & JavaScript Security Automation</li>
+  <li>🧪 Hands-on Labs — TryHackMe & Hack The Box</li>
+  <li>🛠️ Building Practical Cybersecurity Tools</li>
+</ul>
 
 <h2>📚 Currently Exploring</h2>
 
