@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  No shortcuts. No fake reputation. Just skills in progress and targets within scope.
+  No shortcuts. Just skills in progress and targets within scope.
 </p>
 
 <blockquote>
