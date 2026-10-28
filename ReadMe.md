@@ -1,21 +1,27 @@
-<div align="center">
+<!-- ================= CYBERSECURITY PROFILE HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Divyansh%20Tak&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Portfolio&descAlignY=58&descSize=20" width="100%" alt="Divyansh Tak | Cybersecurity Portfolio">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B09,50:123522,100:070B09&height=190&section=header&text=DIVYANSH%20TAK&fontSize=52&fontColor=45FF96&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20PENETRATION%20TESTING&descAlignY=60&descSize=15&animation=fadeIn"
+  width="100%"
+  alt="Divyansh Tak — Offensive Security and Penetration Testing"
+/>
 
-<a href="https://github.com/divyanshtak1001-sys/divyanshtak1001-sys"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&lines=Ethical+Hacker;Penetration+Tester;Bug+Bounty+Hunter;Web+%26+API+Security;Authorized+Testing+Only" alt="Typing animation"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%" alt="divider">
-
-<h3>&lt;/&gt; Connect with me &lt;/&gt;</h3>
-
-<p>
-  <a href="https://github.com/divyanshtak1001-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/divyansh-tak-b0334b362"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/divyanshtak1001"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-@Divyanshtak-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=45FF96&center=true&vCenter=true&width=650&height=45&lines=ETHICAL+HACKER;PENETRATION+TESTER;BUG+BOUNTY+HUNTER;WEB+%26+API+SECURITY;VULNERABILITY+RESEARCH"
+    alt="Ethical Hacker | Penetration Tester | Bug Bounty Hunter"
+  />
 </p>
 
-</div>
+<p align="center">
+  <code>root@divyansh:~$ whoami</code>
+  &nbsp;|&nbsp;
+  <code>OFFENSIVE SECURITY</code>
+  &nbsp;|&nbsp;
+  <code>AUTHORIZED TESTING ONLY</code>
+</p>
+
+<hr>
 
 <!-- Add your custom hacker GIF or portfolio preview image here -->
 <!-- <img src="YOUR_IMAGE_URL" alt="Preview" width="100%"> -->
