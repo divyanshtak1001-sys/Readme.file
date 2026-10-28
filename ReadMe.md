@@ -327,4 +327,10 @@
   <p><i>© 2026 Divyansh Tak. All rights reserved.</i></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer">
+<!-- ================= DARK GREEN CYBERSECURITY FOOTER ================= -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B09,50:123522,100:070B09&height=120&section=footer"
+  width="100%"
+  alt="Dark green cybersecurity footer"
+/>
