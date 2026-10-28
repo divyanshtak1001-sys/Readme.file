@@ -25,8 +25,23 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I'm <b>Divyansh Tak</b>, an ethical hacker, penetration tester, and aspiring security researcher who started exploring
-  cybersecurity at the age of 16.
+  ## `whoami`
+
+```bash
+divyansh@security-lab:~$ whoami
+```
+
+I'm **Divyansh** — curious by nature, offensive by mindset.
+
+Cybersecurity caught my attention at **16**, and I've been chasing the *why* behind every vulnerability ever since.
+
+I question the system, study the flaws, and turn every failure into experience.
+
+No shortcuts. No fake reputation. Just skills in progress and targets within scope.
+
+> **Unknown today. Unstoppable in progress.** 💻
+
+`[ LEARN ]` → `[ TEST ]` → `[ BREAK ]` → `[ IMPROVE ]`
 </p>
 
 <p>
@@ -46,19 +61,6 @@
 
 <blockquote>Welcome to the grind. We're just getting started.</blockquote>
 
-<h2>🚀 Portfolio Features</h2>
-
-<ul>
-  <li><b>Custom Cybersecurity Interface:</b> Dark, terminal-inspired design with anonymous-style aesthetics and pixel-art elements.</li>
-  <li><b>Responsive Layout:</b> Designed to adapt to desktop, tablet, and mobile screens.</li>
-  <li><b>Interactive Terminal:</b> Simulated commands and terminal-inspired navigation.</li>
-  <li><b>Technical Arsenal:</b> An organized presentation of programming languages, development technologies, and security tools.</li>
-  <li><b>Project Showcase:</b> Dedicated sections for cybersecurity and software development projects.</li>
-  <li><b>Hands-On Labs:</b> Links to my TryHackMe and Hack The Box profiles.</li>
-  <li><b>Bug Bounty Focus:</b> A structured view of vulnerability discovery, testing methodology, and responsible disclosure.</li>
-  <li><b>Research Directory:</b> Sections for security write-ups, technical investigations, and future research.</li>
-  <li><b>Professional Connections:</b> Direct links to my GitHub, LinkedIn, and security-learning profiles.</li>
-</ul>
 
 <h2>🛡️ Areas of Interest</h2>
 
