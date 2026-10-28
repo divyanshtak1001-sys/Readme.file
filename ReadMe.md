@@ -200,27 +200,45 @@
   </tr>
 </table>
 
-<p><b>Security Tools &amp; Environments</b></p>
+<!-- Security Tools & Environments -->
+<h3 align="center">🔐 Security Tools &amp; Environments</h3>
 
-<table>
+<table align="center">
   <tr>
-    <th align="center" width="88"><sub>Kali Linux</sub></th>
-    <th align="center" width="88"><sub>Linux</sub></th>
-    <th align="center" width="88"><sub>Burp Suite</sub></th>
-    <th align="center" width="88"><sub>Wireshark</sub></th>
-    <th align="center" width="88"><sub>Nmap</sub></th>
-    <th align="center" width="88"><sub>OWASP ZAP</sub></th>
+    <td align="center">
+      <a href="https://www.kali.org/">
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linux.org/">
+        <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://portswigger.net/burp">
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" width="48" height="48" alt="Burp Suite"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=wireshark" width="48" height="48" alt="Wireshark"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square" alt="Nmap"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-ZAP-00549E?style=flat-square" alt="ZAP"></td>
+    <td align="center">
+      <a href="https://www.wireshark.org/">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nmap.org/">
+        <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.zaproxy.org/">
+        <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP">
+      </a>
+    </td>
   </tr>
 </table>
-
 <p><b>Mobile Development</b></p>
 
 <table>
