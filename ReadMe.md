@@ -135,22 +135,96 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
+
+<p><b>Programming &amp; Scripting</b></p>
+
 <table>
   <tr>
-    <td align="center" valign="top"><b>Languages</b><br><br><img src="https://skillicons.dev/icons?i=py,js,ts,c,bash&perline=5" alt="Languages"></td>
-    <td align="center" valign="top"><b>Frontend</b><br><br><img src="https://skillicons.dev/icons?i=html,css,nextjs&perline=3" alt="Frontend"></td>
-    <td align="center" valign="top"><b>Backend &amp; Data</b><br><br><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&perline=4" alt="Backend &amp; Data"></td>
+    <th align="center" width="88"><sub>Python</sub></th>
+    <th align="center" width="88"><sub>JavaScript</sub></th>
+    <th align="center" width="88"><sub>TypeScript</sub></th>
+    <th align="center" width="88"><sub>C</sub></th>
+    <th align="center" width="88"><sub>Bash</sub></th>
   </tr>
   <tr>
-    <td align="center" valign="top"><b>Security Tools &amp; OS</b><br><br><img src="https://skillicons.dev/icons?i=kali,linux,burpsuite,wireshark&perline=4" alt="Security Tools &amp; OS"></td>
-    <td align="center" valign="top"><b>Dev</b><br><br><img src="https://skillicons.dev/icons?i=git,github,kotlin,androidstudio&perline=4" alt="Dev"></td>
-    <td align="center" valign="top"><b>More tools</b><br><br>
-      <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap">
-      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square" alt="OWASP ZAP">
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"></td>
   </tr>
 </table>
+
+<p><b>Frontend &amp; Backend</b></p>
+
+<table>
+  <tr>
+    <th align="center" width="88"><sub>HTML</sub></th>
+    <th align="center" width="88"><sub>CSS</sub></th>
+    <th align="center" width="88"><sub>Next.js</sub></th>
+    <th align="center" width="88"><sub>Node.js</sub></th>
+    <th align="center" width="88"><sub>Express</sub></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"></td>
+  </tr>
+</table>
+
+<p><b>Databases &amp; Platforms</b></p>
+
+<table>
+  <tr>
+    <th align="center" width="88"><sub>PostgreSQL</sub></th>
+    <th align="center" width="88"><sub>Supabase</sub></th>
+    <th align="center" width="88"><sub>Git</sub></th>
+    <th align="center" width="88"><sub>GitHub</sub></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"></td>
+  </tr>
+</table>
+
+<p><b>Security Tools &amp; Environments</b></p>
+
+<table>
+  <tr>
+    <th align="center" width="88"><sub>Kali Linux</sub></th>
+    <th align="center" width="88"><sub>Linux</sub></th>
+    <th align="center" width="88"><sub>Burp Suite</sub></th>
+    <th align="center" width="88"><sub>Wireshark</sub></th>
+    <th align="center" width="88"><sub>Nmap</sub></th>
+    <th align="center" width="88"><sub>OWASP ZAP</sub></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" width="48" height="48" alt="Burp Suite"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=wireshark" width="48" height="48" alt="Wireshark"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square" alt="Nmap"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-ZAP-00549E?style=flat-square" alt="ZAP"></td>
+  </tr>
+</table>
+
+<p><b>Mobile Development</b></p>
+
+<table>
+  <tr>
+    <th align="center" width="88"><sub>Kotlin</sub></th>
+    <th align="center" width="88"><sub>Android Studio</sub></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"></td>
+  </tr>
+</table>
+
 </div>
 
 <p align="center"><i>Technologies reflect my current work and learning interests; proficiency varies by tool.</i></p>
